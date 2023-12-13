@@ -12,40 +12,30 @@
 
 <iframe width="600" height="336" src="https://www.erdcloud.com/p/w6aEvHCSrxpg5ppDp" frameborder="0" allowfullscreen></iframe>
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/683f4971-3e85-471c-882e-cfc12d14d9d4/Untitled.png)
-
 ## User Interface
 
 1. 로그인
 - 이메일/ 비밀번호
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/72903e88-873b-4ffe-a9f2-50474346effe/Untitled.png)
 
 1. 과목별로 catergorize
 - 원하는 과목 추가하는 형식
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/ec180eb9-3bb2-4ef1-9472-61b35008d322/Untitled.png)
 
 1. 챕터 categorize
 - 원하는 과목에 들어가면 add버튼을 통해 요약본의 제목 설정 및 pdf를 등록
 - 추가 화면은 modal로 뜨도록 구현
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/96b63001-410c-490c-81d4-020dd3a74b49/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/195cde9a-0e9f-4d88-b85f-fd50dac5a22d/Untitled.png)
-
 1. 요약
 - 해당 챕터를 클릭하면 해당 내용 요약이 정리되어 있음
 - 문제에서 틀린 부분 관련 내용을 빨간 테두리로 표시
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/c6caf2be-5b93-4aea-b9ea-1d9d8f8a5ceb/Untitled.png)
 
 1. 퀴즈
 - 요약 페이지의 quiz 버튼을 누르면 해당 챕터 퀴즈가 나옴
 - 퀴즈는 페이지당 한문제씩
 - 퀴즈를 다 풀면 정답률이 (막대 게이지 형태로) 업데이트됨
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/dfa28d76-5333-40b3-9780-fbbeab3c8ca0/84794241-bcff-499d-a443-15a1999f2049/Untitled.png)
 
 1. 데일리 퀴즈
 - 원하는 과목에 들어가면 daily quiz 버튼이 존재
